@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+    background-color: black;
+}
+main{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border-radius: 20px white;
+    text-align: justify;
+    box-shadow: 5px 5px 15px black;
+    text-shadow: 15px black;
+    width: 600px;
+    background-image: linear-gradient(pink, gold);
+    padding: 10px;
+    margin: auto;
+
+}
+h1#principal{
+    text-align: center;
+    font-weight: bolder;
+}
+h2.basico{
+    background-color: green;
+    color: white;
+}
+h2.medio{
+    background-color: azure;
+    border-radius: 20px;
+}
+.sublinhado{
+    font-weight: 900;
+}
